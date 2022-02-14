@@ -1,0 +1,19 @@
+{
+  "name": "danmaku_stat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "web.js",
+  "dependencies": {
+    "filereader": "^0.10.3",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.0",
+    "pako": "^2.0.4",
+    "ws": "^8.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
